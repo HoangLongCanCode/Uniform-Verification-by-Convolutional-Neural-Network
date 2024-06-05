@@ -20,10 +20,15 @@ Our research paper, "Uniform Verification by Convolutional Neural Network," deta
 
 \`\`\`
 Uniform-Verification-by-Convolutional-Neural-Network/
+
 ├── IJNRD2405375.pdf             # Scientific paper about our research
+
 ├── model_training.ipynb         # Jupyter notebook for training the CNN model
+
 ├── modelforsaving.ipynb         # Jupyter notebook for saving the trained model
+
 ├── README.md                    # Project readme file
+
 └── data/                        # Directory for dataset (not included in this repo)
 \`\`\`
 
